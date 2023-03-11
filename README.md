@@ -7,18 +7,18 @@
 ![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=red)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)<br/>
-![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4xi1m3&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
+![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaSystemAdmin&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 <details>
   <summary>Recent Activity</summary>
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reinventing debugging on the Numworks](https://m4xi1m3.github.io//Numworks-picoprobe/)
-- [Screenhax: The obvious bug that led to the creation of Phi](https://m4xi1m3.github.io//screenhax/)
-- [How Numworks killed third-party development - a technical approach](https://m4xi1m3.github.io//Numworks-lock/)
-- [How Windows almost drove me crazy.](https://m4xi1m3.github.io//Windows-rant/)
-- [Micmost: how a .git folder can get your consumers’ data leaked.](https://m4xi1m3.github.io//Micmost-git-leak/)
+- [Reinventing debugging on the Numworks](https://DeltaSystemAdmin.github.io//Numworks-picoprobe/)
+- [Screenhax: The obvious bug that led to the creation of Phi](https://DeltaSystemAdmin.github.io//screenhax/)
+- [How Numworks killed third-party development - a technical approach](https://DeltaSystemAdmin.github.io//Numworks-lock/)
+- [How Windows almost drove me crazy.](https://DeltaSystemAdmin.github.io//Windows-rant/)
+- [Micmost: how a .git folder can get your consumers’ data leaked.](https://DeltaSystemAdmin.github.io//Micmost-git-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][website]
