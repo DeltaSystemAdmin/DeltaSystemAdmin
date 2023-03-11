@@ -35,7 +35,7 @@
 </details>
 
 #### Contact me
-[![Blog](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
+[![Blog](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
 [![email : DeltaSystemAdmin@protonmail.com](https://img.shields.io/badge/-DeltaSystemAdmin%40protonmail%2Ecom-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:DeltaSystemAdmin@protonmail.com)
 
 [website]: https://www.symplex.repl.co/
