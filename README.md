@@ -36,6 +36,6 @@
 
 #### Contact me
 [![Blog](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
-[![email : DeltaSystemAdmin@protonmail.com](https://img.shields.io/badge/-DeltaSystemAdmin%40pm%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:DeltaSystemAdmin@protonmail.com)
+[![email : DeltaSystemAdmin@protonmail.com](https://img.shields.io/badge/-DeltaSystemAdmin%40protonmail%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:DeltaSystemAdmin@protonmail.com)
 
 [website]: https://m4xi1m3.github.io/
