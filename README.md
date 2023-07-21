@@ -18,6 +18,6 @@
 
 #### Contact me
 [![Blog](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
-[![email : Indeed.](https://img.shields.io/badge/-DeltaSystemAdmin%40duck%2Ecom-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:github.deprecate830@aleeas.com)
+[![email : github.deprecate830@aleeas.com](https://img.shields.io/badge/-Me%40me%2Ecom-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:github.deprecate830@aleeas.com)
 
 [website]: https://www.symplex.repl.co/
