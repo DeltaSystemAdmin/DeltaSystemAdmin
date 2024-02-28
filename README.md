@@ -10,7 +10,7 @@
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaSystemAdmin&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 <details>
-  <summary>Recent Activity</summary>
+  <summary>Recent Activity </summary>
 
 
 
